@@ -1,4 +1,4 @@
-package src;
+package Practice;
 
 public class Welcome {
     public static void main(String[] args) {

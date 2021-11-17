@@ -1,4 +1,4 @@
-package src;
+package Practice;
 
 public class GoodFirstProgram {
     public static void main(String[] args) {
