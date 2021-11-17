@@ -5,5 +5,10 @@ public class testing {
         System.out.println("\"Quotes\"");
         System.out.println("Slashes \\//");
         System.out.println("How '\"confounding' \"\\\" it is!");
+        System.out.println("\\\\");
+        System.out.println("'");
+        System.out.println("\ta\tb\tc");
+        System.out.println("\"\"\"");
+        System.out.println("C:\nin\the downward spiral");
     }
 }
